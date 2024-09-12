@@ -7,19 +7,30 @@ html,body,*{
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: black;
+    /*background-image:url("images/IMG_5578.jpg");*/.
+    /*background-size: cover;*/
+}
 h1{
-    
+    text-align: center;
+    color: white;
     font-family: "Nerko One", cursive;
     font-weight: 400;
     font-style: normal;
-    font-size: 100px;
+    font-size: 125px;
 }
 
 .firstbox{
     text-align: center;
-    height: 250px;
-    width: 150px;
+    height: 500px;
+    width: auto;
     background-color: red;
     margin: 10px auto;
     padding: 25px;
+
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
 }
