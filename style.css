@@ -1,31 +1,46 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
 
-html,body,*{
+html,
+body,
+* {
     font-size: 16px;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     background-color: black;
-    /*background-image:url("images/IMG_5578.jpg");*/.
+    /*background-image:url("images/IMG_5578.jpg");*/
+    .
     /*background-size: cover;*/
 }
-h1{
+
+h1 {
     text-align: center;
-    color: white;
+    color: yellow;
     font-family: "Nerko One", cursive;
     font-weight: 400;
     font-style: normal;
     font-size: 125px;
 }
 
-.firstbox{
+h3 {
+    color: silver;
+    font-size: 25px;
+}
+
+.Divide{
+    height: 100px;
+    width: 250px;
+    background-color: black; 
+}
+
+.firstbox {
     text-align: center;
-    height: 500px;
-    width: auto;
-    background-color: red;
+    height: auto;
+    width: 550px;
+    background-color: white;
     margin: 10px auto;
     padding: 25px;
 
@@ -33,4 +48,20 @@ h1{
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
+}
+
+#street{
+    background-color:darkblue;
+    color: gray;
+}
+
+#House{
+    background-color:cadetblue;
+    color: black;
+
+}
+
+#Numbers {
+    color: silver;
+    font-size: 50px;
 }
