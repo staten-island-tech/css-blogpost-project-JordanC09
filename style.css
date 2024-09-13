@@ -43,6 +43,9 @@ h3 {
     background-color: white;
     margin: 10px auto;
     padding: 25px;
+    border-radius: 1cm;
+    
+    border-color: red;
 
     font-family: "Nerko One", cursive;
     font-weight: 400;

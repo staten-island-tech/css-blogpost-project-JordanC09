@@ -47,5 +47,6 @@
   "files.associations": {
     "\"*.njk\"": "\"html\""
   },
-  "editor.bracketPairColorization.enabled": true
+  "editor.bracketPairColorization.enabled": true,
+  "liveServer.settings.port": 5501
 }
